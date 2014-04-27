@@ -5,7 +5,7 @@
   "repository": "https://github.com/azizur/atom-wordpress-api.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.92.0"
+    "atom": ">=0.92.0"
   },
   "dependencies": {}
 }
