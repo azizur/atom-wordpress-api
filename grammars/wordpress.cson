@@ -1,0 +1,20 @@
+'filetypes': [
+  'php'
+]
+'name': 'WordPress'
+'patterns': [
+  {
+    'begin': '<\\?(php|=|)'
+    'end': '\\?>'
+    'patterns': [
+      {
+        'include': 'source.php'
+      }
+    ]
+  }
+  {
+    'match': '(?i)\\bdo_(shortcode|action)(?=\\s*\\()'
+    'name': 'source.function.wordpress.php'
+  }
+]
+'scopeName': 'source.php.wordpress'

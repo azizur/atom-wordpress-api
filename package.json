@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-api",
+  "version": "0.0.0",
+  "description": "WordPress Core API Support. Based on Gipetto's TextMate bundle (https://github.com/Gipetto/wordpress.tmbundle)",
+  "repository": "https://github.com/azizur/atom-wordpress-api.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.92.0"
+  },
+  "dependencies": {
+  }
+}
