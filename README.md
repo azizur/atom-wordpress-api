@@ -1,4 +1,5 @@
 # WordPress Core API Support
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/azizur/atom-wordpress-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 WordPress Core API Support for [Atom](https://atom.io/) Editor.
 
