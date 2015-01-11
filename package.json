@@ -1,6 +1,6 @@
 {
   "name": "wordpress-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "WordPress Core API Support. Now supporting up to **WordPress Core 4.1**. Includes competion support for WordPress Core Classes, functions, hooks and methods.",
   "repository": "https://github.com/azizur/atom-wordpress-api.git",
   "license": "MIT",
