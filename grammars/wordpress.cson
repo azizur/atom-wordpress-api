@@ -10,7 +10,7 @@
     ]
   }
   {
-    'match': '(?i)bdo_(shortcode|action)(?=s*()'
+    'match': '(?i)bdo_(shortcode|action)(?=s*())'
     'name': 'source.function.wordpress.php'
   }
 ]
