@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/azizur/atom-wordpress-api.png?label=ready&title=Ready)](https://waffle.io/azizur/atom-wordpress-api)
 # WordPress Core API Support
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/azizur/atom-wordpress-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
